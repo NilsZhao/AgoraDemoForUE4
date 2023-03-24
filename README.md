@@ -1,7 +1,7 @@
 # 一、下载AgoraDemo使用示例
 
 1. 解压AgoraDemo，将Remark文件夹下的RayvisionSocket插件放到4.27引擎插件的Runtime文件夹下（xxxx\UE_4.27\Engine\Plugins\Runtime）。
-2. 点击运行AgoraDemo项目。弹窗，点击“是”即可。然后慢慢等待项目打开即可。
+2. 点击运行AgoraDemo项目。弹窗，点击“是”即可。然后慢慢等待项目打开即可。（AgoraDemo项目所在路径不能有中文）
 3. 声网插件下载地址：https://github.com/AgoraIO-Extensions/Agora-Unreal-RTC-SDK/releases
 4. 使用其他Websocket连接云平台时，URL的获取可以参考示例。
 5. 打开AgoraDemo项目后，可以不做修改直接打包，上传到云平台测试。若UE成功接收到鉴权信息，会显示UI；点击“数据请求”可以获取token和account；最后点击“连接通话”加入频道
