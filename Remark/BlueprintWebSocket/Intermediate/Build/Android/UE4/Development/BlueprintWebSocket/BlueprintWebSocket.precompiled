@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.BlueprintWebSocket.cppa7.o",
+		"Module.BlueprintWebSocket.cppa8.o",
+		"Module.BlueprintWebSocket.gen.cppa7.o",
+		"Module.BlueprintWebSocket.gen.cppa8.o"
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.BlueprintWebSocket.cpp.o",
+		"Module.BlueprintWebSocket.gen.cpp.o"
+	]
+}
